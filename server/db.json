@@ -1,0 +1,29 @@
+{
+    "careers":[
+        {
+            "id":1,
+            "name":"jeeva",
+             "role":"front end developer",
+             "addres":"aaaaaaaaa"
+        },
+        {
+            "id":2,
+            "name":"fasila",
+             "role":"back end developer",
+             "addres":"aaaaaaaaa"
+
+        },
+        {
+            "id":3,
+            "name":"maadu",
+             "role":"front end developer",
+             "addres":"aaaaaaaaa"
+        },
+        {
+            "id":4,
+            "name":"harshini",
+             "role":"back end developer",
+             "addres":"aaaaaaaaa"
+        }
+    ]
+}
